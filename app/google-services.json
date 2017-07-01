@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "329194317626",
+    "firebase_url": "https://execomchatapplication2017.firebaseio.com",
+    "project_id": "execomchatapplication2017",
+    "storage_bucket": "execomchatapplication2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329194317626:android:e505bc279029a19c",
+        "android_client_info": {
+          "package_name": "eu.execom.chatapplicationspring2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329194317626-5m5t3ji8uk4tpa8lp5ofahcdd3m25mfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8gkxTx2b211Ab6I_nzQqTQ-_7W-il4Eo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
